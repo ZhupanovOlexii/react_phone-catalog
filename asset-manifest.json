@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.f361a142.chunk.css",
-    "main.js": "./static/js/main.070fc230.chunk.js",
-    "main.js.map": "./static/js/main.070fc230.chunk.js.map",
+    "main.css": "./static/css/main.71578668.chunk.css",
+    "main.js": "./static/js/main.dfd64e03.chunk.js",
+    "main.js.map": "./static/js/main.dfd64e03.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
-    "static/js/2.01072564.chunk.js": "./static/js/2.01072564.chunk.js",
-    "static/js/2.01072564.chunk.js.map": "./static/js/2.01072564.chunk.js.map",
+    "static/js/2.a1729325.chunk.js": "./static/js/2.a1729325.chunk.js",
+    "static/js/2.a1729325.chunk.js.map": "./static/js/2.a1729325.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.214506826836a517a00e476a6219e27f.js": "./precache-manifest.214506826836a517a00e476a6219e27f.js",
+    "precache-manifest.dea8df8f4e18aa02290ebcf961c94875.js": "./precache-manifest.dea8df8f4e18aa02290ebcf961c94875.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.f361a142.chunk.css.map": "./static/css/main.f361a142.chunk.css.map",
-    "static/js/2.01072564.chunk.js.LICENSE.txt": "./static/js/2.01072564.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "./static/media/Mont-SemiBold.d41a520b.otf"
+    "static/css/main.71578668.chunk.css.map": "./static/css/main.71578668.chunk.css.map",
+    "static/js/2.a1729325.chunk.js.LICENSE.txt": "./static/js/2.a1729325.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
+    "static/media/Buttons.scss": "./static/media/inFavorites.8d884803.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7c3e9311.js",
-    "static/js/2.01072564.chunk.js",
-    "static/css/main.f361a142.chunk.css",
-    "static/js/main.070fc230.chunk.js"
+    "static/js/2.a1729325.chunk.js",
+    "static/css/main.71578668.chunk.css",
+    "static/js/main.dfd64e03.chunk.js"
   ]
 }
