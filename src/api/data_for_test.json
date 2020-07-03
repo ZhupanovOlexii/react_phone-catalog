@@ -1,0 +1,254 @@
+[
+    {
+        "id": "qwe34433dfg",
+        "name": "Mercury",
+        "distanceFromSun": {
+            "value": 0.4,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 88,
+            "unit": "earth days"
+        },
+        "moons": {
+            "count": 0,
+            "list": []
+        },
+        "description": "Mercury—the smallest planet in our solar system and closest to the Sun—is only slightly larger than Earth's Moon. Mercury is the fastest planet, zipping around the Sun every 88 Earth days",
+        "equatorialRadius": {
+            "value": 2439.7,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 3.7,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": []
+        }
+    },
+    {
+        "id": "qwe34433jkl",
+        "name": "Venus",
+        "distanceFromSun": {
+            "value": 0.7,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 225,
+            "unit": "earth days"
+        },
+        "moons": {
+            "count": 0,
+            "list": []
+        },
+        "description": "Venus spins slowly in the opposite direction from most planets. A thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system.",
+        "equatorialRadius": {
+            "value": 6051.8,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 8.87,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": ["Carbon Dioxide", "Nitrogen"]
+        }
+    },
+    {
+        "id": "qwe34433rew",
+        "name": "Earth",
+        "distanceFromSun": {
+            "value": 1,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 365.25,
+            "unit": "earth days"
+        },
+        "moons": {
+            "count": 1,
+            "list": []
+        },
+        "description": "Earth—our home planet—is the only place we know of so far that’s inhabited by living things. It's also the only planet in our solar system with liquid water on the surface.",
+        "equatorialRadius": {
+            "value": 6371.0,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 9.80665,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": ["Nitrogen", "Oxygen"]
+        }
+    },
+    {
+        "id": "qwe34433rdw",
+        "name": "Mars",
+        "distanceFromSun": {
+            "value": 1.5,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 1.88,
+            "unit": "earth years"
+        },
+        "moons": {
+            "count": 2,
+            "list": ["Deimos", "Phobos"]
+        },
+        "description": "Mars is a dusty, cold, desert world with a very thin atmosphere. There is strong evidence Mars was—billions of years ago—wetter and warmer, with a thicker atmosphere.",
+        "equatorialRadius": {
+            "value": 3389.5,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 3.71,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": ["Carbon Dioxide", "Nitrogen", "Argon"]
+        }
+    },
+    {
+        "id": "qwe34433njh",
+        "name": "Jupiter",
+        "distanceFromSun": {
+            "value": 5.2,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 11.86,
+            "unit": "earth years"
+        },
+        "moons": {
+            "count": 79,
+            "list": ["Io", "Europa", "Ganymede", "Callisto"]
+        },
+        "description": "Jupiter is more than twice as massive than the other planets of our solar system combined. The giant planet's Great Red spot is a centuries-old storm bigger than Earth.",
+        "equatorialRadius": {
+            "value": 69911,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 24.79,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": ["Hydrogen", "Helium"]
+        }
+    },
+    {
+        "id": "qwe34433lad",
+        "name": "Saturn",
+        "distanceFromSun": {
+            "value": 9.5,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 29.45,
+            "unit": "earth years"
+        },
+        "moons": {
+            "count": 82,
+            "list": ["Enceladus", "Titan", "Mimas", "Tethys", "Rhea"]
+        },
+        "description": "Adorned with a dazzling, complex system of icy rings, Saturn is unique in our solar system. The other giant planets have rings, but none are as spectacular as Saturn's.",
+        "equatorialRadius": {
+            "value": 58232,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 10.4,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": ["Hydrogen", "Helium"]
+        }
+    },
+    {
+        "id": "qwe34433gtrs",
+        "name": "Uranus",
+        "distanceFromSun": {
+            "value": 19.8,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 84,
+            "unit": "earth years"
+        },
+        "moons": {
+            "count": 27,
+            "list": ["Umbriel", "Trinculo", "Titania", "Rosalind", "Puck", "Oberon", "Ariel"]
+        },
+        "description": "Uranus—seventh planet from the Sun—rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes Uranus appear to spin on its side.",
+        "equatorialRadius": {
+            "value": 25362,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 8.87,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": ["Hydrogen", "Helium", "Methane"]
+        }
+    },
+    {
+        "id": "qwe34433rctn",
+        "name": "Neptune",
+        "distanceFromSun": {
+            "value": 30.1,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 164.81,
+            "unit": "earth years"
+        },
+        "moons": {
+            "count": 14,
+            "list": ["Galatea", "Despina", "Halimede", "Hippocamp", "Proteus", "Triton", "Nereid", "Larissa"]
+        },
+        "description": "Neptune—the eighth and most distant major planet orbiting our Sun—is dark, cold and whipped by supersonic winds. It was the first planet located through mathematical calculations, rather than by telescope.",
+        "equatorialRadius": {
+            "value": 24622,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 11.15,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": ["Hydrogen", "Helium", "Methane"]
+        }
+    },
+    {
+        "id": "qwe34433rcyem",
+        "name": "Pluto",
+        "distanceFromSun": {
+            "value": 39,
+            "unit": "AU"
+        },
+        "lengthOfYear": {
+            "value": 248.89,
+            "unit": "earth years"
+        },
+        "moons": {
+            "count": 5,
+            "list": ["Charon", "Hydra", "Kerberos", "Nix", "Styx"]
+        },
+        "description": "Pluto is a complex world of ice mountains and frozen plains. Once considered the ninth planet, Pluto is the most massive member of the Kuiper Belt and the best known of a new class of worlds called dwarf planets.",
+        "equatorialRadius": {
+            "value": 1151,
+            "unit": "km"
+        },
+        "surfaceGravity": {
+            "value": 0.66,
+            "unit": "m/s * 2"
+        },
+        "atmosphericConstituents": {
+            "list": []
+        }
+    }
+]

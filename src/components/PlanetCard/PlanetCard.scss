@@ -1,0 +1,47 @@
+.PlanetCard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,400px);
+  justify-content: center;
+  grid-gap: 20px;
+
+  &__list {
+    position: relative;
+    padding: 20px;
+    //  background-color: green;
+    background-image: url("../../img/stars.jpg");
+    background-position: center;
+    background-size: cover;
+
+  }
+  &__info {
+    position: relative;
+  }
+
+  &__description {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__button {
+    display: flex;
+    justify-content: center;
+
+    &--info {
+      font-size: 18px;
+      width: 200px;
+      height: 30px;
+      border: none;
+      transition: background-color 0.4s;
+
+      &:hover {
+        cursor: pointer;
+        background-color: rgb(125, 201, 125);
+      }
+    }
+  }
+
+  &__details {
+    display: flex;
+  }
+}

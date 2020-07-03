@@ -1,0 +1,43 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.input {
+  width: 150px;
+
+  margin: 20px auto;
+
+  &__value {
+    padding-left: 10px;
+    height: 30px;
+    font-size: 18px;
+
+  }
+  ::placeholder {
+    color: black;
+    font-size: 18px;
+  }
+
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+
+  &__sort {
+    height: 30px;
+    margin-right: 20px;
+    background-color: grey ;
+    color: white;
+    font-size: 18px;
+    border: none;
+
+    transition: background-color 0.4s;
+    &:hover {
+      cursor: pointer;
+      background-color: black;
+    }
+  }
+
+}
