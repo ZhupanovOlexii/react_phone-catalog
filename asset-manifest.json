@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.121067ae.chunk.css",
-    "main.js": "./static/js/main.710178f1.chunk.js",
-    "main.js.map": "./static/js/main.710178f1.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.e1f50cee.js",
-    "runtime-main.js.map": "./static/js/runtime-main.e1f50cee.js.map",
-    "static/js/2.cacea054.chunk.js": "./static/js/2.cacea054.chunk.js",
-    "static/js/2.cacea054.chunk.js.map": "./static/js/2.cacea054.chunk.js.map",
+    "main.css": "./static/css/main.d3260c9f.chunk.css",
+    "main.js": "./static/js/main.1862714e.chunk.js",
+    "main.js.map": "./static/js/main.1862714e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
+    "static/js/2.84ca95ab.chunk.js": "./static/js/2.84ca95ab.chunk.js",
+    "static/js/2.84ca95ab.chunk.js.map": "./static/js/2.84ca95ab.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b09f9b0084ba4b897fa950267946a0fb.js": "./precache-manifest.b09f9b0084ba4b897fa950267946a0fb.js",
+    "precache-manifest.9e50d8aad421117e8fe1a78b421e7da6.js": "./precache-manifest.9e50d8aad421117e8fe1a78b421e7da6.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.121067ae.chunk.css.map": "./static/css/main.121067ae.chunk.css.map",
-    "static/js/2.cacea054.chunk.js.LICENSE.txt": "./static/js/2.cacea054.chunk.js.LICENSE.txt",
-    "static/media/PlanetCard.scss": "./static/media/stars.14197818.jpg"
+    "static/css/main.d3260c9f.chunk.css.map": "./static/css/main.d3260c9f.chunk.css.map",
+    "static/js/2.84ca95ab.chunk.js.LICENSE.txt": "./static/js/2.84ca95ab.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
+    "static/media/GoBack.scss": "./static/media/arrowLeft.a1a856a2.svg",
+    "static/media/Breadcrumbs.scss": "./static/media/home.bbe701a7.svg",
+    "static/media/CartPage.scss": "./static/media/plus.f998a5f5.svg",
+    "static/media/Buttons.scss": "./static/media/inFavorites.8d884803.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1f50cee.js",
-    "static/js/2.cacea054.chunk.js",
-    "static/css/main.121067ae.chunk.css",
-    "static/js/main.710178f1.chunk.js"
+    "static/js/runtime-main.7c3e9311.js",
+    "static/js/2.84ca95ab.chunk.js",
+    "static/css/main.d3260c9f.chunk.css",
+    "static/js/main.1862714e.chunk.js"
   ]
 }
